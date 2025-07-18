@@ -37,7 +37,9 @@ Este proyecto de automatización de pruebas para Swag Labs utiliza una variedad 
 4. Ejecute los archivos de prueba usando maven `mvn clear verify` para ejecutar los escenarios de prueba.
 5. Al finalizar se prodrá observar un informe resumido en cucumber
 <img width="886" height="483" alt="image" src="https://github.com/user-attachments/assets/e85ab3fc-c16d-4e01-86f0-2bd4568e8239" />
+
 6. Podemos encontrar el informe mas detallado en la ruta `\target\site\cucumber-html-reports` dentro del proyecto y le damos click en abrir con el navegador
+
 <img width="510" height="299" alt="image" src="https://github.com/user-attachments/assets/a7c36a6e-b7d3-4176-b290-e3e57cadf310" />
 <img width="1107" height="605" alt="image" src="https://github.com/user-attachments/assets/216c0086-2c8a-4f98-8f34-1b879cf1af7c" />
 
