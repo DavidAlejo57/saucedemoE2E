@@ -1,0 +1,6 @@
+Conclusiones de la prueba realizada
+1. Comprobacion de campos alfanuméricos: Los campos de entrada de codigo postal, nombre, apellido aceptan caracteres
+sin ningun tipo de restriccion, lo que podria generar problemas al verificar la informacion ingresada
+2. Funcionalidad verificada: Durante las pruebas las funcionalidades se probaron de manera exitosa todas ellas y se
+comportan de la manera esperada
+3. No se identificaron problemas significativos que impidan la automatizacion de las prubas
