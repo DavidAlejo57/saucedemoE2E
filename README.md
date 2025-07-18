@@ -1,12 +1,12 @@
 # Test-Automatizacion Prueba E2E
-## Automatización de casos https://www.saucedemo.com/ y muestra de reportes CUcumber Serenity
+## Automatización de casos https://www.saucedemo.com/ y muestra de reportes Cucumber Serenity
 Este repositorio contiene un proyecto de prueba automatización E2E para Swag Labs utilizando Java, Cucumber,BDD, Selenium, JUnit 4, Maven. Las pruebas estan diseñadas para cubrir escenarios como: Inicio de sesión, Compra de productos, Verificacion y completar la compra
 
 ## Alcance
 El proyecto cubre las siguentes áreas del sitio web de Swang Labs
 • Autenticarse con el usuario: standard_user y password: secret_sauce • Agregar dos productos al carrito • Visualizar el carrito • Completar el formulario de compra • Finalizar la compra hasta la confirmación: “THANK YOU FOR YOUR ORDER”
 
-## Caracteriísticas
+## Características
 1. Utiliza Cucumber para el desarrollo impulsado por el comportamiento (BDD)
 2. Utiliza Selenium para interactuar con elementos web y realizar acciones automatizadas.
 3. Proporciona informes de errores y resultados de pruebas fáciles de entender.
